@@ -87,6 +87,7 @@ public class _Stack<Item> implements Iterable<Item> {
       }
     }
 
+
     StdOut.println(s.size());
 
     for (String item :
